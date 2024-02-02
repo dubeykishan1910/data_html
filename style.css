@@ -11,14 +11,14 @@
 body{
     padding: 20px;
     min-height: 100vh;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    
 }
 
 
 .main{
     display: flex;
+    justify-content: center;
+    align-items: center;
     
 
 }
